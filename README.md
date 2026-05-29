@@ -18,7 +18,7 @@ Unlike many other Postman collections, this one is meant to be user friendly and
 
 ## What this collection is and isn't
 
-This collection is intended for a B2B 'standalone' setup. That isn't to say you can't use it with an org containing other products, just that B2B is the targeted commerce product.
+This collection is intended for a B2C 'standalone' setup. That isn't to say you can't use it with an environment containing other products, just that B2C sandboxes are the targeted commerce product.
 
 ## Approach
 
